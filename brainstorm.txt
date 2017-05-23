@@ -1,0 +1,19 @@
+BRAINSTORM
+
+Working Name
+Let's do a space today!
+
+Unity
+
+2D
+
+some weapons better at different ranges
+be able to target and repair specific subsystems
+start with capital ships, 1v1
+planet for cover
+nebulae
+possibly have ai controlled fighters
+a few starting setups/layouts
+upgradeable ships
+fog of war
+targeting system - determines accuracy and what subsystems you can target
